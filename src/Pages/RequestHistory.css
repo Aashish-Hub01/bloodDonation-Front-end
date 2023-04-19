@@ -1,0 +1,38 @@
+.donation-details-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+  
+  .donation-details-form {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    width: 100%;
+    max-width: 400px;
+    padding: 24px;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .donation-details-form label {
+    font-size: 18px;
+    font-weight: 600;
+  }
+  
+  .donation-details-form input {
+    width: 100%;
+    font-size: 16px;
+    padding: 8px;
+    border: none;
+    border-bottom: 2px solid #ccc;
+  }
+  
+  .donation-details-form input:focus {
+    outline: none;
+    border-bottom: 2px solid #0084ff;
+  }
+  

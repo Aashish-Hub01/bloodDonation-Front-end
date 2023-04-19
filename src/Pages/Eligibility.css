@@ -1,0 +1,59 @@
+.new-profile {
+  background-color: #a892ee;
+  padding: 1rem;
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+}
+
+.eligibility-container {
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f9bfbf;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .eligibility-title {
+    margin: 0;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 800;
+    color: #1c2331;
+    text-shadow: 2px 2px 0 #ddd;
+  }
+  
+  .eligibility-list {
+    margin-top: 20px;
+    list-style: none;
+    padding: 0;
+  }
+  
+  .eligibility-list li {
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: #1c2331;
+    font-weight: 600;
+    text-shadow: 1px 1px 0 #ddd;
+  }
+  
+  .eligibility-note {
+    font-size: 20px;
+    text-align: center;
+    color: #d12b2b;
+    margin-top: 20px;
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .eligibility-title {
+      font-size: 36px;
+    }
+  
+    .eligibility-list li {
+      font-size: 16px;
+    }
+  }
+  

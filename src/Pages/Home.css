@@ -1,0 +1,80 @@
+/* AdditionalComponents.css */
+
+.profile-menu-button {
+    display: inline-flex;
+    margin: 1em 0;
+    padding: 0.5em 1em;
+    background-color: #bfc5dd;
+    color: #cf0d0d;
+    font-size: 1.15em;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    cursor: pointer;
+  }
+  
+  .profile-menu-button:hover {
+    background-color: #a78484;
+    color: #fff;
+  }
+  
+  .request-blood-button {
+    margin: 1em 0;
+    padding: 0.5em 1em;
+    background-color: #bfc5dd;
+    color: #cf0d0d;
+    font-size: 1.15em;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    cursor: pointer;
+  }
+  
+  .request-blood-button:hover {
+    background-color: #a78484;
+    color: #fff;
+  }
+  
+  .slideshow-window {
+    margin: 1em 0;
+    padding: 1em;
+    background-color: #fff;
+    color: #bfc5dd;
+    font-size: 1.15em;
+    text-align: center;
+  }
+  
+  .donation-count-button {
+    margin: 1em 0;
+    padding: 0.5em 1em;
+    background-color: #bfc5dd;
+    color: #cf0d0d;
+    font-size: 1.15em;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    cursor: pointer;
+  }
+  
+  .donation-count-button:hover {
+    background-color: #a78484;
+    color: #fff;
+  }
+  
+  .request-count-button {
+    margin: 1em 0;
+    padding: 0.5em 1em;
+    background-color: #bfc5dd;
+    color: #cf0d0d;
+    font-size: 1.15em;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    cursor: pointer;
+  }
+  
+  .request-count-button:hover {
+    background-color: #a78484;
+    color: #fff;
+  }
+  
